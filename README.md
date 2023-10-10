@@ -4,3 +4,4 @@
 <img width="784" alt="Näyttökuva 2023-10-10 kello 10 00 39" src="https://github.com/Ckeihas/Angular-Shop/assets/96183675/ac96bcfa-9acd-429e-85c6-649433c4cf9e">
 
 <h1 style="font-weight: bold">#Description<h1></h1>
+Simple webshop using Angular Material for UI. Simple implementation for any api you want so that you can create your own online store.
