@@ -1,27 +1,4 @@
-# AngularSneakerStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<img width="774" alt="Näyttökuva 2023-10-10 kello 9 58 19" src="https://github.com/Ckeihas/Angular-Shop/assets/96183675/fed582eb-a359-4d45-bddd-f2279f425d11">
+<img width="779" alt="Näyttökuva 2023-10-10 kello 9 59 43" src="https://github.com/Ckeihas/Angular-Shop/assets/96183675/5e92d01d-39f1-4db3-8ee5-0fe97fa8d05a">
+<img width="784" alt="Näyttökuva 2023-10-10 kello 10 00 39" src="https://github.com/Ckeihas/Angular-Shop/assets/96183675/ac96bcfa-9acd-429e-85c6-649433c4cf9e">
